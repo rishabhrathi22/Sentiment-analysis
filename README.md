@@ -3,7 +3,7 @@ This is a simple python program for sentimental analysis of tweets
 
 ## Usage
 ```python
-python feedback_system.py
+python sentiment_analysis.py
 ```
 
 ## Contributing
